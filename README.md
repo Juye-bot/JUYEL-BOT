@@ -1,13 +1,13 @@
 ## ABOUT ME
 
-name : ```𝐅𝐀𝐇𝐈𝐌 𝐂𝐇𝐎𝐖𝐃𝐇𝐔𝐑𝐘```</br>
+name : ```𝐉𝐮𝐰𝐞𝐥 𝐑𝐚𝐧𝐚```</br>
 age : ```18+```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100089843872421).</br>
+link : [facebook](https://www.facebook.com/juyel.rana.alc?mibextid=ZbWKwL).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [𝐅𝐀𝐇𝐈𝐌 𝐂𝐇𝐎𝐖𝐃𝐇𝐔𝐑𝐘](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```𝐅𝐀𝐇𝐈𝐌 𝐂𝐇𝐎𝐖𝐃𝐇𝐔𝐑𝐘```
+modified : [𝐉𝐮𝐰𝐞𝐥 𝐑𝐚𝐧𝐚](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```𝐉𝐮𝐰𝐞𝐥 𝐑𝐚𝐧𝐚```
 
 ## CONFIG AND CUSTOM
 

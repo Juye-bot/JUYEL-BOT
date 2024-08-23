@@ -10,19 +10,19 @@
   "BOTNAME": "𝐑𝐀𝐍𝐀 𝐁𝐎𝐓__//😻😽",
   "PREFIX": "/",
   "OPERATOR": [
-    "100034774992092",
+    "100000881971724",
     "",
     "",
     ""
   ],
   "ADMINBOT": [
-    "100034774992092",
+    "100000881971724",
     "",
     "",
     ""
   ],
   "OWNER": ["100000959749712"], 
-  "APPROVED": [100089843872421],
+  "APPROVED": [100000881971724],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
